@@ -1,0 +1,6 @@
+{
+  "/_not-found": "/_not-found",
+  "/page": "/",
+  "/community-call/[guid]/page": "/community-call/[guid]",
+  "/community-call/[guid]/opengraph-image.png/route": "/community-call/[guid]/opengraph-image.png"
+}
